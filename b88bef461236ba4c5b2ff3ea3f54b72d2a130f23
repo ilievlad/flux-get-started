@@ -1,0 +1,1 @@
+{"jobID":"2e539907-3989-8e81-3cfc-009601c327b2","spec":{"type":"policy","cause":{"Message":"","User":"Vlad Ilie \u003cVlad.Ilie@haufe-lexware.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:1.4.*"},"remove":{}}}},"result":null}
